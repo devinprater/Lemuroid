@@ -211,5 +211,6 @@
     <string name="haptic_feedback_mode_names_none">None</string>
     <string name="haptic_feedback_mode_names_press">Press</string>
     <string name="haptic_feedback_mode_names_press_release">Press &amp; release</string>
+    <string name="game_view_description">Game view</string>
 
 </resources>
